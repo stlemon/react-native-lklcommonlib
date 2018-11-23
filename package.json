@@ -1,0 +1,20 @@
+{
+  "name": "react-native-commonlib",
+  "version": "1.0.0",
+  "description": "lkl版RN开发通用库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "langxl",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.55.4"
+  },
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
