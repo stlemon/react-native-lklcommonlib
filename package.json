@@ -1,5 +1,5 @@
 {
-  "name": "react-native-commonlib",
+  "name": "react-native-lklcommonlib",
   "version": "1.0.0",
   "description": "lkl版RN开发通用库",
   "main": "index.js",
@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "moment": "^2.22.2"
-  }
+  },
+  "homepage": "https://github.com/stlemon/react-native-commonlib"
 }
